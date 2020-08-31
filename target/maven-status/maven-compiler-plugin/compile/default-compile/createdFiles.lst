@@ -1,0 +1,4 @@
+com\pikaqiu\starter\autoconfiguration\CommonProperties.class
+META-INF\spring-configuration-metadata.json
+com\pikaqiu\starter\autoconfiguration\CommonAutoConfiguration.class
+com\pikaqiu\starter\autoconfiguration\CommonPropertyService.class

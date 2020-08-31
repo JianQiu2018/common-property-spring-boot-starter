@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "common.property",
+      "type": "com.pikaqiu.starter.autoconfiguration.CommonProperties",
+      "sourceType": "com.pikaqiu.starter.autoconfiguration.CommonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "common.property.desc",
+      "type": "java.lang.String",
+      "sourceType": "com.pikaqiu.starter.autoconfiguration.CommonProperties"
+    },
+    {
+      "name": "common.property.name",
+      "type": "java.lang.String",
+      "sourceType": "com.pikaqiu.starter.autoconfiguration.CommonProperties"
+    }
+  ],
+  "hints": []
+}
